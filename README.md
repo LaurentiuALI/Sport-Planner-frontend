@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 This project was created in collaboration with [Alexandra Marian](https://github.com/alexandraamarian), [Sorin-Ionut Rosalim](https://github.com/Sorin-Ionut-Rosalim) and [Guriță Marius-Alexandru](https://github.com/amserdion01).\
-The backend for this project can be found [here](https://github.com/amserdion01/sports-game-backend).\
+The backend for this project can be found [here](https://github.com/amserdion01/sports-game-backend).
 
 ## Available Scripts
 
