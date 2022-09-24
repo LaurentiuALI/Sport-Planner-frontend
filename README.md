@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created in collaboration with [Sorin-Ionut Rosalim)(https://github.com/Sorin-Ionut-Rosalim)
 
 ## Available Scripts
 
